@@ -1,0 +1,60 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+[Oo]bj/
+[Oo]bj/[Dd]ebug/
+
+# Build
+Build/
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.cache
+*.suo
+*.vs
+/*.sln
+*.user
+*.unityproj
+*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+# ========= #
+# Substance #
+# ========= #
+.autosave/
+
+
+# ==== #
+# Maya #
+# ==== #
+.mayaSwatches/
+
+
+
+# ======= #
+# Amplify #
+# ======= #
+.SourceCache
+Assets/Aura/Examples
+Assets/Plugins/Aura/Examples
+Logs
+*.vsconfig
